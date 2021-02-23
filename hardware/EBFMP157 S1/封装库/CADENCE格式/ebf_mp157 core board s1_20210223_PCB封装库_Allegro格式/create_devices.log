@@ -1,0 +1,54 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Create_devices LOG file                                          )
+(                                                                     )
+(    Drawing          : ebf_mp157 core board s1_20201123.brd          )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Tue Feb 23 10:30:18 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/res_6_r0402_discrete_10k_5.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/stm32mp157_core_164p_mp157_core.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/res_6_r0402_discrete_100r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/sy6280aac_sot23-5_lti9700.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/rt9026gfp_0_msop10_rt9026gfp.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/cap_np_c0201_discrete_01uf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/cap_np_c0201_discrete_022uf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/cap_np_c0201_discrete_47uf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/res_6_r0603_discrete_1k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/res_6_r0603_discrete_10k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/stm32mp157_0_tfbga361_12x12_stm.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/mtfc4gmvea_wfbga_153p_fbga153_0.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/cap_np_c0603_discrete_47uf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/res_6_r0402_discrete_10k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/res_6_r0402_discrete_34k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/res_6_r0402_discrete_240r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/res_6_r0402_discrete_56r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/res_6_r0402_discrete_0r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/res_6_r0402_discrete_100k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/res_6_r0402_discrete_30k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/res_6_r0402_discrete_22r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/res_6_r0402_discrete_nc10k_5.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/res_6_r0402_discrete_24k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/cap_np_c0603_discrete_47uf__1.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/cap_np_c0402_discrete_01uf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/cap_np_c0603_discrete_10uf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/cap_np_c0402_discrete_022uf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/cap_np_c0402_discrete_100nf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/cap_np_c0402_discrete_68pf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/cap_np_c0402_discrete_18pf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/diode_schtky_0_sod523_ic_rb521s.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/inductor_l2520_discrete_22uh.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/res_r0402_discrete_3k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/mt29f32g08cbadb_1_tsop48-050-12.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/rt8096chgj5_tsot-23-5_rt8096chg.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/rt8097chgb_tsot-23-5_rt8097chgb.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/mt41j256m16re_fbga96_bga96_0p8_.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/crystal_jxs63_3225_ic_24mhz.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 core/整理资料/封装库/CADENCE格式/PCB/crystal_3215_ic_32768khz.txt': written successfully.
+
+  Created device files: 39
+

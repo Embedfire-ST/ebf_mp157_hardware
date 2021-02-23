@@ -1,0 +1,164 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Create_devices LOG file                                          )
+(                                                                     )
+(    Drawing          : ebf_mp157 dev board s1_20201215.brd           )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Tue Feb 23 11:28:01 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/b2s_0_dip-2x2-2p54_dip-2x2-2p54.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/ind_l4018_discrete_22uh_30.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/iso7221ad_1_soic_8_121u31.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/diode_sod_123_in4148.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_5_r0603_discrete_10k_5.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/u-mp2012dq_2_switch_ddsz_power-.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/led_led0603_ic_red.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/led_led0603_ic_green.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_4_r0603_discrete_15knc.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_4_r0603_discrete_0rnc.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/stm32mp157_core_164p_157_dev_16.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/dip_30p_0_dip-2x13_2p54_dip_26p.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/w25q16dv_soic8-208_w25q128.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/12mhz_1_xtal-dip_12mhz.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/fpc_0p5_3_fpc-30s-0p5sv_fpc_0p5.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/ct2012_0_cap100_nc.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/cap_np_c0805_discrete_10uf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/cap_np_c0603_discrete_82pf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/cap_np_c0603_discrete_68pf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/cap_np_c0603_discrete_22pf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/zdiode_0_sma_ic_smaj50ca.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_f0805_discrete_0r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/2x4_1_dip-2x4-2p54_dip-2x4-2p54.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/conn_hdr_2x1_con_2pin_io_hdr1x.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/lqh32c_0_l0630_fxl0630-100-m.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/lqh32c_0_l0420_fxl0420-2r2-m.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_5_r0603_discrete_6k8.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_5_r0603_discrete_22r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_5_r0603_discrete_22k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_r0805_discrete_0r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_4_r0603_discrete_100k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_5_r0603_discrete_187k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_5_r0603_discrete_5k1.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_4_r0603_discrete_47k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_5_r0603_discrete_137k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_4_r0603_discrete_249k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_4_r0603_discrete_15k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_4_r0603_discrete_499r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_r0603_discrete_470r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_r0603_discrete_330r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/sim-7-1_0_nano_sim_sim-card.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/tps54302ddcr_sot23_s6_tps54302d.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/led_led0603_ic_blue.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/swd_xh2p54-5p_1_swd.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/jtag_5x2_1_jtag_2x10pin_2p54_jt.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/module_lcd_1_fpc-40s-0p5sv_io_f.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/cap_np_c0603_discrete_22uf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/mini-pcie_0_pcie_mini-pcie.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_r0603_discrete_100r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/nup5120-d_1_sot563_nup5120x6t1g.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/sw_1_dip_6p_sw.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/ct2012_0_case-b_3528_22uf16v.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/cap_np_c0603_discrete_33pf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/led_0_led0603_ic_blue.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/spacer_0_t3r2-5r2_topsmt_ic_30.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_r0603_discrete_15k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_r0603_discrete_0r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_r0603_discrete_22r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/ind_l0603_discrete_100r100mhz_.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/ct2012_0_ec6p3_220uf16v.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/cap_np_c0603_discrete_47uf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/dip-2x10-2p54_dip-2x10-2p54_dip.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/con_8_sdcard_detect_1_tfcard_io.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/hy911130a_0_hy911130a_hy911130a.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/type-c-31-m-12_type-c-31-m-12_t.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_4_r0603_discrete_10k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_5_r0603_discrete_120r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_4_r0603_discrete_22r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_4_r0603_discrete_0r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_4_r0603_discrete_510r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/max3232eeae_soic16_max3232cse.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/rtl8211f_0_qfp_40p_rtl8211f.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/crystal_jxs63_3225_ic_25mhz.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_5_r0603_discrete_1k_5.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/cap_np_c0603_discrete_022uf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/ind_l4018_discrete_1uh_30.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_5_r0603_discrete_200k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_5_r0603_discrete_442k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/mp2144gj_tsot23_8p_tsot23-8_ic_.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/ap6212_ap6212_ap6236.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/spacer_0_t4r2-6r2_topsmt_ic_30.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/spacer_0_t4r2-6r2_botsmt_ic_30.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/cap_np_c0603_discrete_15pf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/cap_np_c0603_discrete_1uf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/cap_np_c0603_discrete_10nf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/diode_schtky_0_sod123_ic_1n5819.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/diode_schtky_0_sod523_ic_rb521s.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/atom010130010052_hdmi_19p_con_r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/conn_hdr_1_ph-1x4-2p0_io_ph-1x4.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/2sk3018_0_sot23_ic_2sk3018.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_5_r0603_discrete_1k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_5_r0603_discrete_100r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_5_r0603_discrete_20r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_5_r0603_discrete_0r.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_5_r0603_discrete_100k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_5_r0603_discrete_47k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_4_r0603_discrete_1k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_5_r0603_discrete_nc.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_5_r0603_discrete_43k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_5_r0603_discrete_511k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_r0603_discrete_10k_5.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/diode_tvs_bidir_sod523_ic_esd5b.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/wm8960_qfn_33p_qfn32_ic_wm8960.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/sii9022a_qfn72_0p5_10x10_4p85sq.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/rt9169_sot23_ic_rt9169-12gvl.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/srv05-4_sot23_s6_ic_srv05-4.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/tja1057gt3_1_sop8_ic_max3485.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/32768khz_3225_32768khz.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/b2s_1_hdr102_dip-1x2-2p54.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_5_r0603_discrete_10k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/ct2012_0_ec6p3_100uf25v.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/cap_np_c0603_discrete_100nf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/cap_np_c0603_discrete_10uf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/c1608_c0603_100nf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/cap_np_c0603_discrete_100pf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/cap_np_c0603_discrete_10pf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/cap_np_c0603_discrete_nc.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/cap_np_c0603_discrete_18pf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/cap_np_c0603_discrete_22nf.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/cr1220_cr1220_cr1220.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/wifi_ant_1_ufl-3_wifi_ant.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/con_db9_db9-f_con_db9.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/con_db9_db9-m_con_db9.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/led_0_led0603_ic_red.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/mic_jack_ear_jack_mic_jack.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/mic_jack_ear_jack_ear_jack.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/usb_mini_ab_receptacle_3_micro_.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/usb-a-d_0_usb-a-d_usb-a-d.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/powerjack_3_jack-2_5mm_b_power.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/bead_l0603_discrete_330100mhz_.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/lqh32c_0_l4018_sm4018-3r3mt.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/mic_pom_mic_6x2_2_ic_mic.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/piezobuzzer_0_buzzer_buzzer.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/npn_sot23_ic_ss8050.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_r0603_discrete_10k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/r1005_0_r0603_27k1.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_r0603__10k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_5_r0603_discrete_47k__1.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_r0603_discrete_1k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/res_5_r0603_discrete_34k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/resadj_0_rm065-v1_1k.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/sw_pb_esw_0_sw4_pb_esw_sm_p177_.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/fe11s_ssop-28_fe11s.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/sy6280aac_sot23-5_mt9700.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/mpu-6050_1_qfn24_mpu-6050.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/max3232eeae_1_soic16_ch340g.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/tja1057gt3_8p_sop8_ic_tja1042t.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/crystal_jxs63_3225_ic_26mhz.txt': written successfully.
+Device file 'E:/原理图PCB__赵中磊/LINUX Project/MP157/Stamp Hole/ebf_mp157 s1 dev/ebf_mp157 dev board s1_20210223_发布资料/封装库/CADENCE格式/PCB/diodebi-dirtrig_sod323_pesd3v.txt': written successfully.
+
+  Created device files: 149
+

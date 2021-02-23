@@ -1,0 +1,137 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Tue Feb 23 10:30:17 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: C:/Users/Administrator/Desktop/1/ebf_mp157 core board s1_20201123.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  SMD_1_7X1_5 being dumped.
+
+  S_R0R25X0R30 being dumped.
+
+  S_R0R65X0R80 being dumped.
+
+  SMD1R4X1R2MM being dumped.
+
+  SMD2R3X0R4MM being dumped.
+
+  SMD0R6X1R2MM being dumped.
+
+  SMD_0R5_2R44 being dumped.
+
+  PAD0R64X0R5MM being dumped.
+
+  SMD0R46X0R5MM being dumped.
+
+  SMD54X10 being dumped.
+
+  SMD20_40 being dumped.
+
+  SMD_0_8 being dumped.
+
+  SMD30_32 being dumped.
+
+  SMD44_80 being dumped.
+
+  VIA6_12F being dumped.
+
+  VIA8_14F being dumped.
+
+  SMD0R93X0R98MM being dumped.
+
+  NPAD35R43 being dumped.
+
+  VIA16_30F being dumped.
+
+  PAD2X0R6C0R5DMM being dumped.
+
+  NPAD1R3MM being dumped.
+
+  EX12Y12D0T being dumped.
+
+  RX62Y11D0T being dumped.
+
+  SMD54X10OB being dumped.
+
+  SMD0_52_22 being dumped.
+
+  TH_NP_1R0 being dumped.
+
+  TH_NP_1R3 being dumped.
+
+  VIA8_14OBF being dumped.
+
+  C010S being dumped.
+
+  C014S being dumped.
+
+  PAD4C2P5DMM being dumped.
+
+  TH2_0 being dumped.
+
+  TH1_3 being dumped.
+
+  TH0_9 being dumped.
+
+  VIA-12 being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  fbga153_0p5_11p5x13 being dumped.
+
+  msop10 being dumped.
+
+  sot23-5 being dumped.
+
+  tsop48-050-1220 being dumped.
+
+  tfbga361_12x12 being dumped.
+
+  bga96_0p8_8p15x14p15 being dumped.
+
+  tsot-23-5 being dumped.
+
+  3215 being dumped.
+
+  3225 being dumped.
+
+  mp157_core_160p_45x45 being dumped.
+
+  c0201 being dumped.
+
+  c0402 being dumped.
+
+  c0603 being dumped.
+
+  l2520 being dumped.
+
+  r0402 being dumped.
+
+  r0603 being dumped.
+
+  sod523 being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:               35
+Number of package symbols dumped:         17
+
+Total number of symbols dumped:           17
+*****************************************************
+
