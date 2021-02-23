@@ -37,7 +37,7 @@
    :caption: 相关主要手册
    :numbered:
 
-   manual/reference_manual
+.. manual/reference_manual
 
 
 .. toctree::
