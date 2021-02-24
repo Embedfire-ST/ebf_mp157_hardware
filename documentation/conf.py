@@ -17,8 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'[野火]EBF i.MX6ULL硬件资料'
-copyright = u'2019, embedfire-野火 www.embedfire.com'
+project = u'[野火]EBF STM32MP157硬件资料'
+copyright = u'2021, embedfire-野火 www.embedfire.com'
 author = u'embedfire-野火 www.embedfire.com'
 
 

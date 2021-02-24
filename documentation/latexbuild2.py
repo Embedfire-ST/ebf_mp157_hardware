@@ -2,7 +2,7 @@
 
 import datetime, os, sys
 
-name = "EBF i.MX6ULL硬件资料"
+name = "EBF STM32MP157硬件资料"
 #输出PDF文档 名称格式 type = 1：手册  type = 0：教程
 type = 0
 
