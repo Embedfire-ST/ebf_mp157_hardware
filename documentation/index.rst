@@ -50,7 +50,7 @@
    :maxdepth: 1
    :caption: 参与贡献
 
-   contribute/quick-contribute
+..   contribute/quick-contribute
    TODO
 
 .. toctree::
