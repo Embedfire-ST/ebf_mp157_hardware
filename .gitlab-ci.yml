@@ -6,7 +6,7 @@ variables:
   #gitlab 用户名
   GIT_USERNAME: hejiawen
   #OSS地址
-  OSS_URL: oss://ebf-doc/linux/imx6/hardware/zh/latest
+  OSS_URL: oss://ebf-doc/st-mp1/hardware/ebf_mp157_hardware/zh/latest
   #NAS地址 数量不匹配需要删改PDF-files任务中的内容
   NAS_URL1: /home
   NAS_URL2: /home
