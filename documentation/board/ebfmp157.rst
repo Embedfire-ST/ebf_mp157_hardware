@@ -115,7 +115,7 @@ LCD                 1路，RGB888
 命名规则
 ---------------
 
-EBFMP157 S1邮票孔核心板主控为NXP i.MXMP157，具体型号为：MIMX6Y2C08AB，
+EBFMP157 S1邮票孔核心板主控为STM32MP157，具体型号为：STM32MP157AAC，
 核心板标配内存为1GB DDR3，FLASH 为eMMC，整个核心板的命名方式具体如下表。
 
 
