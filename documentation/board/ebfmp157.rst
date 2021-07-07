@@ -29,11 +29,11 @@ EBFMP157 核心板是野火电子基于STM32MP157系列处理器设计的一款�
 MPU主频高达 650MHz，标配1GB内存，存储为8GB eMMC。
 
 
-.. image:: media/stm32mp1002.jpeg
+.. image:: media/stm32mp1002.jpg
    :align: center
    :alt: EBFMP157 S1邮票孔核心板
 
-.. image:: media/stm32mp1003.jpeg
+.. image:: media/stm32mp1003.jpg
    :align: center
    :alt: EBFMP157 S1邮票孔核心板
 
@@ -52,7 +52,7 @@ EBFMP157 S1邮票孔核心板是为了产品批量使用而开发的，为了方
 我们提供了底板，覆盖了各个开发群体的用户，如下图。
 
 
-.. image:: media/imx6s1005.jpeg
+.. image:: media/imx6s1005.png
    :align: center
    :alt: EBFMP157 S1 Pro 开发板
 
@@ -191,7 +191,7 @@ EBFMP157 S1电源参数：
 
 EBFMP157 S1的尺寸为45mm×45mm，如下图，单位mm。
 
-.. image:: media/stm32mp1008.jpeg
+.. image:: media/stm32mp1008.png
    :align: center
    :alt: EBFMP157 S1 邮票孔核心板尺寸图，单位mm
 

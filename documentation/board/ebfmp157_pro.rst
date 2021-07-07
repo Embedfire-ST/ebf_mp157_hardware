@@ -22,10 +22,9 @@ EBFMP157 Pro底板硬件手册
 EBFMP157 S1 Pro开发板是野火电子基于STM32MP157系列处理器设计的一款低功耗单板电脑，
 主频为650MHz，具体如下图。
 
-.. image:: media/stm32mp1002.jpeg
+.. image:: media/stm32mp1001.jpg
    :align: center
    :alt: EBFMP157 S1 Pro开发板
-
 
 
 EBFMP157 S1 Pro开发板提供完整的SDK驱动开发包、核心板封装库，底板应用参考设计原理图，
@@ -44,7 +43,7 @@ EBFULL Pro底板硬件资源
 
 野火EBFMP157 Pro底板硬件资源见图：
 
-.. image:: media/stm32mp1005.jpeg
+.. image:: media/imx6s1005.png
    :align: center
    :alt: EBFMP157 Pro底板硬件资源见图
 
